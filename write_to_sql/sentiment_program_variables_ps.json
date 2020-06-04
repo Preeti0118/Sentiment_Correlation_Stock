@@ -1,0 +1,13 @@
+{
+	"runnewsapiflag": "Y",
+	"newsapikey": "7f668e04ef274a5abac5f4514fccf6f1",
+	"newsapistartdate": "2020-05-01",
+	"newsapienddate": "2020-05-24",
+
+	"runtwitterapiflag": "N",
+	"twitterapiclientkey": "client key",
+	"twitterapiclientsecret": "client secret",
+	"twitterapiaccesstoken": "access token",
+
+	"var_engine_path": "mysql+pymysql://root:yourpassword@localhost:3306/stocks"
+}
